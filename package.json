@@ -1,6 +1,6 @@
 {
   "name": "certificate-bundle-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Loads root and intermediate certificates from the CCADB and registers them in the global HTTPS module agent",
   "main": "index.js",
   "scripts": {
