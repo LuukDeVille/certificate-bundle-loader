@@ -20,6 +20,10 @@
     "mocha": "^5.2.0",
     "nodemon": "^1.18.9"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuukDeVille/certificate-bundle-loader.git"
+  },
   "keywords": [
     "SSL",
     "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
