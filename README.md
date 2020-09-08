@@ -54,7 +54,7 @@ const targetFingerprints = [
 await certificatebundle.addCertificates(targetFingerprints);
 ```
 
-Details about getting the SHA-256 fingerprint for a certificate can be found [here](https://knowledge.digicert.com/solution/SO28771.html).
+Details about getting the SHA-256 fingerprint for a certificate can be found [here](https://community.rsa.com/docs/DOC-105698).
 
 ## Other libraries dealing with certificates
 
